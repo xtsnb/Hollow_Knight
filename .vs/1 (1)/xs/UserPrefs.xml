@@ -1,0 +1,50 @@
+﻿<Properties StartupConfiguration="{80C5F04B-190D-A923-76D8-DFA6FBC429CC}|">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Props/Geo.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Enemy/Crawler.cs" Line="26" Column="1" />
+      <File FileName="Assets/Scripts/Enemy/Enemy.cs" Line="18" Column="15" />
+      <File FileName="Assets/Scripts/Props/Breakable.cs" Line="17" Column="10" />
+      <File FileName="Assets/Scripts/Player/HitPause.cs" Line="25" Column="35" />
+      <File FileName="Assets/Scripts/Others/CharacterEffect.cs" Line="22" Column="6" />
+      <File FileName="Assets/Scripts/Player/PlayerController.cs" Line="367" Column="2" />
+      <File FileName="Assets/Scripts/Others/CinemaShaking.cs" Line="14" Column="74" />
+      <File FileName="Assets/Scripts/Player/Invincibility.cs" Line="19" Column="63" />
+      <File FileName="Assets/Scripts/Others/Opening.cs" Line="17" Column="45" />
+      <File FileName="Assets/Scripts/Others/GameManager.cs" Line="16" Column="45" />
+      <File FileName="Assets/Scripts/Menu/AudioVolume.cs" Line="14" Column="34" />
+      <File FileName="Assets/Scripts/Player/Attack.cs" Line="23" Column="39" />
+      <File FileName="Assets/Scripts/Menu/MenuAudio.cs" Line="24" Column="1" />
+      <File FileName="Assets/Scripts/Menu/MenuButoonController.cs" Line="17" Column="35" />
+      <File FileName="Assets/Scripts/Menu/PlayOneShot.cs" Line="14" Column="1" />
+      <File FileName="Assets/Scripts/Player/CharacterAudio.cs" Line="15" Column="6" />
+      <File FileName="Assets/Scripts/Player/CharacterData.cs" Line="29" Column="16" />
+      <File FileName="Assets/Scripts/Player/GeoCollect.cs" Line="20" Column="6" />
+      <File FileName="Assets/Scripts/Props/Geo.cs" Line="16" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="1 (1)" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="Enemy" expanded="True" />
+                <Node name="Menu" expanded="True" />
+                <Node name="Others" expanded="True" />
+                <Node name="Player" expanded="True" />
+                <Node name="Props" expanded="True" />
+              </Node>
+              <Node name="TextMesh Pro" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="b7709d70-a5fa-4229-ac5d-119fca7ccaa5" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
